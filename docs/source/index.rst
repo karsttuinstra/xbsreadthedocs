@@ -18,3 +18,5 @@ Contents
    introduction
    commands
    tracking
+   usage
+   api
