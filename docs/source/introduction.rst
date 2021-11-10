@@ -1,1 +1,7 @@
-introduction
+Introduction
+===
+
+.. autosummary::
+   :toctree: generated
+
+   lumache
