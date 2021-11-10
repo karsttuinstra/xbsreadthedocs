@@ -1,11 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the XBS documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-Lumache has its documentation hosted on Read the Docs.
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This document describes available API endpoints for XBS. For each command there will be a description on what data the API exposes, the parameters and an example request and response.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -19,5 +15,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   introduction
+   commands
+   tracking
